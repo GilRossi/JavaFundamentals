@@ -44,6 +44,18 @@ public class Variaveis {
 		//		boolean falso = false;
 		//		System.out.println("Verdadeiro: " + verdadeiro);
 		//		System.out.println("Falso: " + falso);
+		int num1 = 2;
+		int num2 = 2;
+		/*
+		 * Pode usar algumas comparações
+		 * 1 - Maior: >
+		 * 2 - Menor: <
+		 * 3 - Igual: ==
+		 * 4 - Maior igual: >=
+		 * 5 - Menor igual: <=
+		 */
+		boolean ehIgual = num1 == num2;
+		System.out.println(ehIgual);
 		//		
 		//		System.out.println("\nCaracteres");
 		//		char v = '\u0041'; // Utilizando para hexadecimar
@@ -59,7 +71,8 @@ public class Variaveis {
 		// 3 - Divisão: /
 		// 4 - Multiplicação: *
 		//		double soma = num1 + num2;
-		//		System.out.println(soma);
+		//		System.out.println(soma);		
+
 	}
 
 }

@@ -2,7 +2,7 @@ package video006;
 
 public class Calcular {
 	public static void main(String[] args) {
-
+		
 		//Somas aqui
 		System.out.println("Somas");
 
