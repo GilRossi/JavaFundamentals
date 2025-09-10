@@ -53,6 +53,7 @@ public class Variaveis {
 		 * 3 - Igual: ==
 		 * 4 - Maior igual: >=
 		 * 5 - Menor igual: <=
+		 * 6 - Negação: !
 		 */
 		boolean ehIgual = num1 == num2;
 		System.out.println(ehIgual);
