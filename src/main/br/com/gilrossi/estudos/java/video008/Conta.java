@@ -4,6 +4,11 @@ public class Conta {
 	
 	static double saldoContaConjunta;
 	double saldoContaIndividual;
+	/*
+	 * o uso do final serve para deixar como constante
+	 * 
+	 *  utilizando o snake case para colocar o nome da contante TAXA_SERVICOS
+	 */
 	final static double TAXA_SERVICOS = 12.6;
 	
 	static double depositarContaConjunta(double valor) {
