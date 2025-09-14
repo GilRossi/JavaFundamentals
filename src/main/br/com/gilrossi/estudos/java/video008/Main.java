@@ -1,5 +1,9 @@
 package video008;
 
+/*
+ * O uso do static é para quando não precisamos de objetos
+ */
+
 public class Main {
 	public static void main(String[] args) {
 		Conta.depositarContaConjunta(2000);
