@@ -11,7 +11,7 @@ public class Conta {
 	}
 	
 	static double sacarContaConjunta(double valor) {
-		return saldoContaConjunta += valor;
+		return saldoContaConjunta -= valor;
 	}
 	
 	double depositarContaIndividual(double valor) {

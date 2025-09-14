@@ -16,6 +16,10 @@ public class Main {
 		Conta conta = null;
 		
 		System.out.println(conta);
+		
+		Conta.sacarContaConjunta(500);
+		
+		System.out.println(Conta.saldoContaConjunta);
 	}
 
 }
